@@ -1,0 +1,12 @@
+name: Question3
+title: Question3
+username: g-whittington
+account: g-whittington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14576389
+bundleId: 10154752
+url: https://g-whittington.shinyapps.io/Question3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
